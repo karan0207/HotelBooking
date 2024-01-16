@@ -21,7 +21,13 @@ Welcome to our Fullstack Hotel Booking Website! This project provides a robust p
   - [Node.js](https://nodejs.org/) - JavaScript runtime for server-side development.
   - [Express.js](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js.
   - [MongoDB](https://www.mongodb.com/) - NoSQL database for storing hotel and user data.
-
+## Project Design:
+![Hotel Image](home1.png)
+![Hotel Image](home2.png)
+![Hotel Image](search1.png)
+![Hotel Image](search2.png)
+![Hotel Image](mob1.png)
+![Hotel Image](mob2.png)
 ## Getting Started
 
 1. Clone the repository:
